@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/prayashdash_.gif"></p>
+<p align="center"><img src="./assets/hi_i_am_prayashdash_.gif"></p>
 
 <h2>Hey, I'm Prayash! <img src="./assets/hi.gif" height=20 width=20></h2>
 
