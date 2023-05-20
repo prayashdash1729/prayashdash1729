@@ -1,4 +1,4 @@
-<div class="header"</div>
+<div class="header"></div>
 
 <div class="banner-gif" align="center">
 <p><img src="./assets/hi_i_am_prayashdash_.gif"></p>
