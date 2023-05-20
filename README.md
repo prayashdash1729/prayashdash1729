@@ -28,3 +28,6 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prayashdash/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/thePrayashDash)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prayashdash_/)
+
+
+![](https://komarev.com/ghpvc/?username=prayashdash1729&style=flat-square)
