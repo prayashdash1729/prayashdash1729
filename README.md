@@ -22,7 +22,7 @@
 
 ## 🎧 Follow me Spotify:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5qp20v1xme2k0wos7667er8xb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=5qp20v1xme2k0wos7667er8xb&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5qp20v1xme2k0wos7667er8xb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=5qp20v1xme2k0wos7667er8xb&redirect=true)
 
 [![top-tracks](https://spotify-recently-played-readme.vercel.app/api?user=5qp20v1xme2k0wos7667er8xb&count=3)](https://github.com/JeffreyCA/spotify-recently-played-readme)
 
