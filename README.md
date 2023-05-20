@@ -2,7 +2,7 @@
 
 <h2>Hey, I'm Prayash! <img src="./assets/hi.gif" height=20 width=20></h2>
 
-<p align="center">I am an undergrad student at IIT Varanasi. I'm a tech enthusiast and love to explore new technologies. I have worked on machine learning 🤖 and deep learning projects. I'm currently looking for opportunities to collaborate on projects and learn new things. I like to listen to music 🎵 and play video games 🎮 in my free time. I'm also love to read about space 👽 and astronomy and I love star gazing 🔭.</p>
+<p align="center">I am an undergrad student at IIT Varanasi. I'm a tech enthusiast and I love to explore new technologies. I have worked on machine learning 🤖 and deep learning projects. I'm currently looking for opportunities to collaborate on projects and learn new things. I like to listen to music 🎵 and play video games 🎮 in my free time. I also love to read about space 👽 and astronomy and I am an avid stargazer 🔭.</p>
 
 
 
