@@ -27,6 +27,6 @@
 
 ## 🎧 Follow me Spotify:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5qp20v1xme2k0wos7667er8xb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=5qp20v1xme2k0wos7667er8xb&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5qp20v1xme2k0wos7667er8xb&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=5qp20v1xme2k0wos7667er8xb&redirect=true)
 
 
