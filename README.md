@@ -50,6 +50,6 @@
 
 <div class="footer">
   
-  ![](https://komarev.com/ghpvc/?username=prayashdash1729&style=flat-square)
+  [![](https://visitcount.itsvg.in/api?id=prayashdash1729&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
