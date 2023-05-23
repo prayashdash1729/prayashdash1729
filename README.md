@@ -12,6 +12,7 @@
 <div class="tech-stack">
   
   ## 🌱 Technologies & Tools:
+  
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="vscode" width="40" height="40"/>](https://www.python.org/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>](https://isocpp.org/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org/)
