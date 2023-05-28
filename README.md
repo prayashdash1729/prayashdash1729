@@ -27,8 +27,12 @@
 <div class="github-stats">
   
   ## &#x1f4c8; GitHub Stats:
-  ![Prayash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prayashdash1729&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true)
-  </div>
+  
+  ![Prayash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prayashdash1729&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prayashdash1729&theme=dark)
+  
+</div>
 
 <div class="spotify">
   
