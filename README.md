@@ -20,7 +20,8 @@
   [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40"/>](https://scikit-learn.org/stable/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
   [<img src="./assets/streamlit.png" alt="streamlit" height="30"/>](https://streamlit.io/)
-  
+  [<img src="./assets/flask.png" alt="flask" height="40"/>](https://flask.palletsprojects.com/en/2.3.x/)
+
 </div>
 
 <div class="github-stats">
