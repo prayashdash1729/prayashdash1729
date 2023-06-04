@@ -12,6 +12,7 @@
 <div class="tech-stack">
   
   ## 🌱 Technologies & Tools:
+  
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="vscode" width="40" height="40"/>](https://www.python.org/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>](https://isocpp.org/)
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org/)
@@ -27,8 +28,12 @@
 <div class="github-stats">
   
   ## &#x1f4c8; GitHub Stats:
-  ![Prayash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prayashdash1729&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true)
-  </div>
+  
+  ![Prayash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prayashdash1729&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prayashdash1729&theme=dark)
+  
+</div>
 
 <div class="spotify">
   
