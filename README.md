@@ -53,9 +53,9 @@
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/prayashdash_/)
   
 </div>
-
+</br></br>
 <div class="footer">
   
-  [![](https://visitcount.itsvg.in/api?id=prayashdash1729&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+  ![](https://komarev.com/ghpvc/?username=prayashdash1729&label=Profile+views&color=yellowgreen)
   
 </div>
