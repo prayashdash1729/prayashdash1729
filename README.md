@@ -26,6 +26,8 @@
   [<img src="./assets/huggingface-2.svg" alt="huggingface" width="40" height="40"/>](https://huggingface.co/)
   [<img src="./assets/LangChain_Workmark_Color.png" alt="langchain" width="40" height="40"/>](https://www.langchain.com/)
   [<img src="./assets/deepchecks-logo.png" alt="deepchecks" width="40" height="40"/>](https://deepchecks.com/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" />](https://spark.apache.org/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" />](https://aws.amazon.com/)
 
 
 
